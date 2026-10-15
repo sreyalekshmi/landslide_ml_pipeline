@@ -1,0 +1,21 @@
+{
+  "features": [
+    "gyro_x_dps",
+    "gyro_y_dps",
+    "gyro_z_dps",
+    "rainfall_intensity_mm_h",
+    "rainfall_accum_24h_mm",
+    "humidity_rh_pct",
+    "temperature_c",
+    "vibration_g",
+    "missing_gyro_x_dps",
+    "missing_gyro_y_dps",
+    "missing_gyro_z_dps",
+    "missing_rainfall_intensity_mm_h",
+    "missing_rainfall_accum_24h_mm",
+    "missing_humidity_rh_pct",
+    "missing_temperature_c",
+    "missing_vibration_g"
+  ],
+  "target": "sensor_fault_label"
+}

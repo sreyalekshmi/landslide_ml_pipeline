@@ -1,0 +1,13 @@
+{
+  "features": [
+    "gyro_x_dps",
+    "gyro_y_dps",
+    "gyro_z_dps",
+    "rainfall_intensity_mm_h",
+    "rainfall_accum_24h_mm",
+    "humidity_rh_pct",
+    "temperature_c",
+    "vibration_g"
+  ],
+  "target": "landslide_risk_label"
+}
